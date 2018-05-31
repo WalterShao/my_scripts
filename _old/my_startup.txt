@@ -1,0 +1,4 @@
+1. crontab -e
+2. adding a line like this to it:
+        @reboot /path/to/script
+
